@@ -1,0 +1,19 @@
+{
+  "name": "cat-shelter",
+  "version": "1.0.0",
+  "description": "Design and implement a \"Cat Shelter\" web application (containing routing and multiple web pages) using HTML 5, CSS 3 and Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dobriNedev/cat-sheltrer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dobriNedev/cat-sheltrer/issues"
+  },
+  "homepage": "https://github.com/dobriNedev/cat-sheltrer#readme"
+}
